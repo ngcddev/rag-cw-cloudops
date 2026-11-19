@@ -1,0 +1,1 @@
+{"id": "sla-01", "category": "planes_sla", "prompt": "¿Qué disponibilidad mensual me garantiza el plan Estándar?", "expected_answer": "Debe indicar 99,5 % de disponibilidad mensual y atención de lunes a sábado de 7:00 a 20:00, sin inventar otros compromisos.", "required_keywords": ["99,5"]}
